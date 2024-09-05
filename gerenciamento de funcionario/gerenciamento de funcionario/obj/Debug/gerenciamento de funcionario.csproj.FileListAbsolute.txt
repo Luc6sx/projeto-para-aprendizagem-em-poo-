@@ -1,0 +1,15 @@
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\bin\Debug\gerenciamento de funcionario.exe.config
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\bin\Debug\gerenciamento de funcionario.exe
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\bin\Debug\gerenciamento de funcionario.pdb
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento de funcionario.csproj.AssemblyReference.cache
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento_de_funcionario.Properties.Resources.resources
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento de funcionario.csproj.GenerateResource.cache
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento de funcionario.csproj.CoreCompileInputs.cache
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento de funcionario.exe
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento de funcionario.pdb
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento_de_funcionario.Form1.resources
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento_de_funcionario.telaregistro.resources
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento_de_funcionario.Form2.resources
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento_de_funcionario.addfunc.resources
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento_de_funcionario.dashboard.resources
+C:\Users\matto\OneDrive\Área de Trabalho\POO\POO\gerenciamento de funcionario\gerenciamento de funcionario\obj\Debug\gerenciamento_de_funcionario.salario.resources
